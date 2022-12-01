@@ -59,8 +59,10 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
+<h2 align="left" id="macropower-tech">Github Stats  </h2>
+
 <div align="center">
-  <a href="https://github.com/rajel718">
+  <a href="https://github.com/hassanrazakazmi">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hassanrazakazmi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanrazakazmi&layout=compact&langs_count=7&theme=gruvbox" />
   </a>
