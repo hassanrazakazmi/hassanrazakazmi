@@ -62,11 +62,11 @@
 <h2 align="left" id="macropower-tech">Github Stats  </h2>
 
 <div align="center">
-  <a href="https://github.com/hassanrazakazmi">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hassanrazakazmi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanrazakazmi&layout=compact&langs_count=7&theme=gruvbox" />
+  <a href="https://github.com/bixie-dev">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bixie-dev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bixie-dev&layout=compact&langs_count=7&theme=gruvbox" />
   </a>
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassanrazakazmi&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bixie-dev&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
